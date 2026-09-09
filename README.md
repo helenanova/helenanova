@@ -1,8 +1,14 @@
-# hi, I'm helenanova 👋
+# hi, I'm Helena 👋
 
-🌱 exploring the AI agent skills ecosystem - how agents learn new tricks
-🛠 building **sevensignal**: fan-made, unofficial agent skills for BTS fans, starting with ticket-scam safety
-🤝 contributing to vercel-labs/skills (the agent-skills package manager)
-💬 EN / KR · concise, friendly, always curious
+*(helenanova pretty much everywhere)*
 
-*not affiliated with HYBE, BIGHIT MUSIC, or Weverse - sevensignal is a fan project*
+I got into AI agents because I wanted mine to do more than chat. Now I spend my time figuring out how agents learn new skills - and building a few of my own.
+
+**what I'm up to**
+- 🌱 exploring the agent-skills ecosystem: how agents learn, share, and pick up new tricks
+- 🛠 building **sevensignal** - agent skills for safer ticket buying
+- 🤝 contributing to [vercel-labs/skills](https://github.com/vercel-labs/skills), the package manager for agent skills
+
+**the human part**
+- ✨ serially curious, collector of skills (the agent kind and the human kind)
+- almost went with helenabyte, but helenanova felt more like me
